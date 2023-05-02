@@ -53,3 +53,4 @@ group :test do
 
 
 gem 'net-smtp'
+gem 'tzinfo-data'
